@@ -8,7 +8,7 @@ Built by the founder of [North](https://northapp.in) — a personal intelligence
 
 ## What it does
 
-Run `vibe audit` on any codebase and get:
+Run `codebrief audit` on any codebase and get:
 
 - System overview
 - Core user flows
@@ -66,7 +66,7 @@ A lot can be improved. If you want to contribute, here's what's missing:
 2. Make your change
 3. Open a PR with a short description of what you fixed
 
-No gatekeeping. If it makes vibe-cli more useful, it's welcome.
+No gatekeeping. If it makes codebrief more useful, it's welcome.
 
 ## License
 MIT
