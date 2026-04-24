@@ -1,4 +1,4 @@
-# vibe-cli
+# codebrief
 
 > Run one command. See your codebase clearly.
 
@@ -22,7 +22,7 @@ A clean HTML report opens automatically in your browser.
 ## Install
 
 ```bash
-npm install -g vibe-cli
+npm install -g codebrief
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ npm install -g vibe-cli
 ```bash
 export OPENAI_API_KEY=your_key
 cd your-project
-vibe audit
+codebrief audit
 ```
 
 ## Why
