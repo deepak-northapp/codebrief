@@ -68,6 +68,29 @@ A lot can be improved. If you want to contribute, here's what's missing:
 
 No gatekeeping. If it makes codebrief more useful, it's welcome.
 
+## Roadmap
+
+codebrief is just getting started. Here's where it's going:
+
+**v0.1 — current**
+- Codebase audit with AI
+- System overview, flows, risks, scores
+- Moat vs commodity
+- HTML report auto-opens in browser
+
+**v0.2 — coming soon**
+- `codebrief map` — visual system diagram of your architecture
+- `codebrief scale` — identify what breaks at 10x users
+- skills.md support — customize how codebrief thinks about your stack
+
+**v1.0 — the vision**
+- `codebrief decide` — tell you what to build next based on your system
+- CI/CD integration — audit on every PR
+- Support for Python, Go, Rust
+- No API key needed for basic mode
+
+The goal is simple: every founder deserves a CTO-level view of what they're building.
+
 ## License
 MIT
 
